@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^5.0.0",  // Adjust version if necessary
+    "@adiwajshing/baileys": "^5.0.0",
     "axios": "^0.21.1",
     "ytdl-core": "^4.9.0"
   },
